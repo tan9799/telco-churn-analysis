@@ -1,0 +1,16 @@
+﻿SelectedFeature
+num__tenure
+num__MonthlyCharges
+num__TotalCharges
+cat__InternetService_Fiber optic
+cat__OnlineSecurity_No
+cat__OnlineSecurity_No internet service
+cat__OnlineBackup_No internet service
+cat__DeviceProtection_No internet service
+cat__TechSupport_No
+cat__TechSupport_No internet service
+cat__StreamingTV_No internet service
+cat__StreamingMovies_No internet service
+cat__Contract_Month-to-month
+cat__Contract_Two year
+cat__PaymentMethod_Electronic check

@@ -1,0 +1,16 @@
+﻿Feature,MeanAbsSHAP
+cat__Contract_Month-to-month,0.6511157
+num__tenure,0.38273698
+cat__OnlineSecurity_No,0.33708665
+cat__PaymentMethod_Electronic check,0.3299698
+cat__InternetService_Fiber optic,0.31674546
+cat__TechSupport_No,0.29218954
+num__MonthlyCharges,0.16449556
+cat__Contract_Two year,0.15911247
+num__TotalCharges,0.08681838
+cat__OnlineBackup_No internet service,0.0
+cat__OnlineSecurity_No internet service,0.0
+cat__StreamingTV_No internet service,0.0
+cat__TechSupport_No internet service,0.0
+cat__DeviceProtection_No internet service,0.0
+cat__StreamingMovies_No internet service,0.0

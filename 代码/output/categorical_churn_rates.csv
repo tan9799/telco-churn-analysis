@@ -1,0 +1,17 @@
+﻿变量,类别,客户数,流失率
+Contract,Month-to-month,3875,0.4270967741935484
+Contract,One year,1473,0.11269517990495587
+Contract,Two year,1695,0.02831858407079646
+PaymentMethod,Bank transfer (automatic),1544,0.16709844559585493
+PaymentMethod,Credit card (automatic),1522,0.15243101182654403
+PaymentMethod,Electronic check,2365,0.4528541226215645
+PaymentMethod,Mailed check,1612,0.19106699751861042
+InternetService,DSL,2421,0.1895910780669145
+InternetService,Fiber optic,3096,0.4189276485788114
+InternetService,No,1526,0.07404980340760157
+OnlineSecurity,No,3498,0.4176672384219554
+OnlineSecurity,No internet service,1526,0.07404980340760157
+OnlineSecurity,Yes,2019,0.14611193660227836
+TechSupport,No,3473,0.4163547365390153
+TechSupport,No internet service,1526,0.07404980340760157
+TechSupport,Yes,2044,0.15166340508806261
